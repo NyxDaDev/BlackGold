@@ -1,5 +1,5 @@
-# TrueOPEC
-TrueOPEC (OPEC) is an ERC20-compliant token that is the first cryptocurrency to be directly pinned to the current price of the OPEC Reference Basket.
+# BlackGold
+BlackGold (BLKG) is an ERC20-compliant token that is the first cryptocurrency to be directly pinned to the current price of the OPEC Reference Basket.
 The supply is not mineable, and is directly pinned to the OPEC Oil Reserves. Supply will be adequate adjusted every year to match the exact value provided by OPEC¹.
 Here are the sources TrueOPEC uses:
 
